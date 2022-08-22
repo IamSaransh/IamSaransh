@@ -5,8 +5,7 @@ I'm Saransh, I love to code Data pipelines and full-stack solutions.
 # 📊 GitHub Stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=IamSaransh&show_icons=true&count_private=true&theme=onedark)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IamSaransh&hide=html,less,scss,css)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IamSaransh/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
+<img src="https://raw.githubusercontent.com/IamSaransh/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
   <img src="https://raw.githubusercontent.com/IamSaransh/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/languages.svg" alt="language-stats" height="200">
 [![Saransh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IamSaransh)](https://github.com/IamSaransh/github-readme-stats)
 
