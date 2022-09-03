@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm IamSaransh</h1>
+<h1 align="center">Hi 👋, I'm Saransh</h1>
 <h3 align="center">A passionate Data Engineer And Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsaransh&label=Profile%20views&color=0e75b6&style=flat" alt="iamsaransh" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/IamSaransh](https://github.com/IamSaransh)
 
-- 💬 Ask me about **Spring Boot, Odatav4, Angular, Apache Beam, Angular, GCP, BigQuery**
+- 💬 Ask me about **Spring Boot, Odatav4, Angular,Airflow, Apache Beam, Angular, GCP, BigQuery, CICD, Docker, Kubernetes**
 
 - 📫 How to reach me **saranshvashistha@gmail.com**
 
